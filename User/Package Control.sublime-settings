@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"BracketHighlighter",
+		"Case Conversion",
+		"Dockerfile Syntax Highlighting",
+		"GitGutter",
+		"GitSavvy",
+		"Graql Syntax",
+		"Idiomatic-CSS-Comments-Snippets",
+		"JavaScriptNext - ES6 Syntax",
+		"Jinja2",
+		"JsPrettier",
+		"JSX",
+		"LESS",
+		"MarkdownPreview",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"sublime-github",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-flake8",
+		"Syntax Sproto",
+		"URLEncode"
+	]
+}

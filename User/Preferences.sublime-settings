@@ -1,0 +1,49 @@
+{
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.eslintcache",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		"lib/**",
+		"node_modules/**",
+		"venv/**",
+		"static/**",
+		"static-build/**",
+		"*.min.js"
+	],
+	"draw_white_space": "all",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"SublimeGit",
+		"Vintage"
+	],
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_tags": false,
+	"rulers":
+	[
+		72,
+		80,
+		100
+	],
+	"show_full_path": true,
+	"tab_size": 4,
+	"theme": "Oceanic Next.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

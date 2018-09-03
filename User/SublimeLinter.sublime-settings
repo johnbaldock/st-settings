@@ -1,0 +1,20 @@
+// SublimeLinter Settings - User
+{
+    // "show_panel_on_save": "view",
+    "paths": {
+        "linux": [],
+        "osx": ["~/.nvm/versions/node/v8.11.3/bin/node", "~/.pyenv/shims"],
+        "windows": [],
+    },
+    "linters": {
+      "eslint": {
+          "env": {
+            "PATH":"~/.nvm/versions/node/v8.11.3/bin:$PATH"
+          }
+      },
+      "flake8": {
+        "working_dir": "~/apps/lyst"
+      }
+    },
+    "debug": true
+}
